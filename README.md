@@ -18,7 +18,7 @@
 -   Ambaram + Smital -> price prediction
 
 -  Ambaram taking on deploying virtual environment we can all deploy to (to be completed ASAP)
--  Eric uploading csv of scraped data as well as python script in classes
+-  Eric uploading csv of scraped data as well as python script in classes (Complete)
 -  Estevan and Mohammad to upload data into mysqllite server
 
 ##### MAKE SURE TO REFER TO MOCKUP/DESIGN WHEN BUILDING TEMPLATES! 
