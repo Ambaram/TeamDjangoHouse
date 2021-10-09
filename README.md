@@ -1,6 +1,6 @@
 ## TEAM DJANGO HOUSE ##
 
-**TO DO:
+** TO DO:
 - everyone learn Django
 - set up remote django database
 - set up remote working environment for django
@@ -10,7 +10,7 @@
 - Neighbourhood data api pull
 - google maps or openmaps api pull
 
-**Meeting October 9 @ 9am
+** Meeting October 9 @ 9am
 
 - Everyone taking on specific role (need something to display for Thursday)
 -   Ahmed + Eric -> Neighbourhood Data
@@ -21,4 +21,4 @@
 -  Eric uploading csv of scraped data as well as python script in classes
 -  Estevan and Mohammad to upload data into mysqllite server
 
-**MAKE SURE TO REFER TO MOCKUP/DESIGN WHEN BUILDING TEMPLATES! 
+** MAKE SURE TO REFER TO MOCKUP/DESIGN WHEN BUILDING TEMPLATES! 
