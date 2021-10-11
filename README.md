@@ -11,6 +11,7 @@
 ## COMPLETE
 - implement webscraper to collect listing data (eric) Oct 7
 - create mockup for website in illustrator(eric) Oct 7
+- Created enviroment for project found under folder djangohouse - app realListing will be for the real estate listing information Oct 11
 
 ## Meeting October 9 @ 9am
 
